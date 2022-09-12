@@ -4,7 +4,7 @@
 
 # Desktop
 
-![Alt text](/images/New%20Wireframe%201.png "desktop")
+![Alt text](/images/TinDog.png "desktop")
 
 # Tablet
 
